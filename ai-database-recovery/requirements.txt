@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+langchain-openai
+langgraph
+pydantic
+pydantic-settings
+python-dotenv
+pandas
+plotly
+pytest
+requests
